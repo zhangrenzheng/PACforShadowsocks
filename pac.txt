@@ -4,6 +4,7 @@
 var proxy = "__PROXY__";
 
 var rules = [
+  "||www.flyzy2005.com",
   "||ipinfo.io",
   "||hubspot.com",
   "||marinsm.com",
