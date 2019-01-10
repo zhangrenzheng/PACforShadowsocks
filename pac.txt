@@ -23,6 +23,8 @@ var rules = [
   "||gitbooks.io",
   "||github.io",
   "||github.com",
+  "||githubapp.com",
+  "||githubassets.com",
   "||rawgithub.com",
   "||wangminbiji.com",
   "||lala.im",
