@@ -6,9 +6,11 @@ var proxy = "__PROXY__";
 var rules = [
   "||www.flyzy2005.com",
   "||ipinfo.io",
+  "||bentonow.com",
   "||hubspot.com",
   "||marinsm.com",
   "||adnxs.com",
+  "||gstatic.com",
   "||prfct.co",
   "||servercat.me",
   "||affyun.com",
