@@ -16,7 +16,6 @@ var rules = [
   "||namecheap.com",
   "||reddit.com",
   "||huiyaossr.com",
-  "||uuwosi.com",
   "||outlook.live.com",
   "||teddysun.com",
   "||namesilo.com",
