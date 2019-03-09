@@ -4,6 +4,9 @@
 var proxy = "__PROXY__";
 
 var rules = [
+  "||bitsend.jp",
+  "||simpleplanes.com",
+  "||vbird.org",
   "||disquscdn.com",
   "||disqus.com",
   "||redditstatic.com",
