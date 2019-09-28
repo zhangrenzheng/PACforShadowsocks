@@ -4,6 +4,19 @@
 var proxy = "__PROXY__";
 
 var rules = [
+  "||cambridge.org",
+  "||ampproject.org",
+  "||rubiconproject.com",
+  "||adnxs.com",
+  "||casalemedia.com",
+  "||adtech.de",
+  "||criteo.com",
+  "||cloudfront.net",
+  "||ampproject.org",
+  "||doubleclick.net",
+  "||hotjar.com",
+  "||criteo.net",
+  "||api.polarbyte.com",
   "||bitsend.jp",
   "||simpleplanes.com",
   "||vbird.org",
